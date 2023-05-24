@@ -25,7 +25,7 @@
     "@nestjs/platform-express": "^9.0.0",
     "@prisma/client": "^4.14.1",
     "prisma": "^4.14.1",
-    "prisma-multischema": "file:prisma-multischema-1.0.0.tgz",
+    "prisma-multischema": "^1.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.5.5"
   },
