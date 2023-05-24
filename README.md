@@ -4,7 +4,7 @@
 
 # Prisma MultiSchema : TypeScript -Example
 
-This repo demonstrates working example of the npm package `prisma-multischema`
+This repo demonstrates working example of the npm package [prisma-multischema](https://www.npmjs.com/package/prisma-multischema)
 
 To Test :
 
