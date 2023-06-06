@@ -1,13 +1,12 @@
-#exclude
+//#exclude
 
-/* Writing '#exclude' ON top  Excludes the schema */ 
 
 import { User } from "user\user"
 import { Moods } from "type\moody"
 
 model LEGENDARY{
 
-    user User
+    id String @id @default(auto()) @map("_id") @db.ObjectId
     mood Moods
     
 }
