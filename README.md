@@ -7,6 +7,7 @@
 This repo demonstrates working example of the npm package 
 - Repo : [prisma-multischema](https://github.com/joydip007x/Prisma-MultiSchema) 
 <br/>
+
 - Package : [npm](https://www.npmjs.com/package/prisma-multischema)
 
 To Test :
@@ -16,7 +17,7 @@ To Test :
   git clone https://github.com/joydip007x/Prisma-MultiSchema-TS-Example.git
   ```
 - SET database's connection string in `.ENV`
-- Run `npm install` to install dependencies
+- Run `npm install` && `npm i prisma-multischema `to install dependencies
 - 🎯Execute `npx prisma-multischema` 
 
 - Running the app
