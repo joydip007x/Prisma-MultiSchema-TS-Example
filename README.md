@@ -26,5 +26,9 @@ To Test :
    npm run start:dev
   ```
 
+# Video  ✅[YT Link](https://youtu.be/4GOuJLvGVko)
+https://github.com/joydip007x/Prisma-MultiSchema-TS-Example/assets/38793267/e195c07a-de7a-405a-9685-8c82f23bce93
+
+
 # API
 - Sharing Postman-API : [Postman Shared API ](https://documenter.getpostman.com/view/15393845/2s93m4X2he)
